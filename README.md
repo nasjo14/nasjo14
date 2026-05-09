@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nasjo14
-- 👀 I’m interested in Python and SQL
-- 🌱 I’m currently learning Python, SQL, & Java
+- 👀 I’m interested in AI Automation
+- 🌱 I’m currently learning Zapier, Make.com, n8n
 - 💞️ I’m looking to collaborate on anyone who's willing to help
 - 📫 How to reach me : Just give me a code 
 - 😄 Pronouns: ...
